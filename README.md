@@ -13,3 +13,4 @@ Adib As-Ad Tonmoy
 Khalid Hossain
 
 The system’s dashboard interface was implemented using Blynk, providing a user-friendly platform for real-time monitoring and control.
+<img width="3000" height="1821" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/91bab39c-287b-4ccd-9817-7b62684eed4a" />
